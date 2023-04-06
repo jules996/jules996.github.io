@@ -1,4 +1,23 @@
-.title {
-  color: pink;
-  text-align: center;
+* {
+  background-color: black;
+}
+
+.bio {
+  color: white;
+}
+
+.head, .about, .education, .experience {
+    color: #fa85cd;
+    text-align: center;
+  }
+  
+.bio {
+    text-align: center;
+}
+
+.gif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 }
